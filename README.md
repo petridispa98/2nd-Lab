@@ -11,4 +11,5 @@ Scaling 1GHz vs 2GHz: </br>
 specbzip: 1.91 </br>
 spechmmer: 1.995 </br>
 speclibm: 1.501 </br>
+specsjeng: 1.37 </br>
 specmcf: 1.967 </br>
